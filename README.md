@@ -251,7 +251,7 @@ Use [PayPal Sandbox test accounts](https://developer.paypal.com/dashboard/accoun
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/776b448e-fea2-4b61-bd1c-afeb463d7302" />
 
-
+https://github.com/user-attachments/assets/2b707fd2-83f1-4e58-9db7-2725a2a7ab5e
 ---
 
 ## Roadmap
