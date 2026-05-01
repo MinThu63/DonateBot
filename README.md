@@ -251,6 +251,11 @@ Use [PayPal Sandbox test accounts](https://developer.paypal.com/dashboard/accoun
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/776b448e-fea2-4b61-bd1c-afeb463d7302" />
 
+<img width="1161" height="1106" alt="image" src="https://github.com/user-attachments/assets/8cc9da1f-2e6e-41bf-914a-e23f276da638" />
+
+<img width="738" height="480" alt="image" src="https://github.com/user-attachments/assets/0ed1635e-f74d-46c9-b8f3-69c98d01801d" />
+<img width="715" height="358" alt="image" src="https://github.com/user-attachments/assets/1611b2b2-90dd-4f8b-91c8-4c7a3b6f727a" />
+
 https://github.com/user-attachments/assets/2b707fd2-83f1-4e58-9db7-2725a2a7ab5e
 ---
 
