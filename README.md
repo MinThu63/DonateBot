@@ -247,17 +247,10 @@ Use [PayPal Sandbox test accounts](https://developer.paypal.com/dashboard/accoun
 
 ---
 
-## Screenshots
+## Screenshots + Demo Video
 
-> Screenshots to be added after final UI polish.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/776b448e-fea2-4b61-bd1c-afeb463d7302" />
 
-| View | Description |
-|------|-------------|
-| **Idle State** | Robot waves and shows encouraging messages |
-| **Donation Flow** | Charity selection → Amount → PayPal payment |
-| **Small Donation** | Robot does a happy nod with arm clap |
-| **Epic Donation** | Full celebration with confetti and voice |
-| **Stats Panel** | Goal progress, donor list, charity breakdown |
 
 ---
 
